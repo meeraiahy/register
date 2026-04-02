@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "meeraiahy",
+    "email": "yampallatech@gmail.com"
+  },
+  "records": {
+    "CNAME": "meeraiahy.github.io"
+  }
+}
